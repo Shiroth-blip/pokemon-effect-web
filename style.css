@@ -1,0 +1,23 @@
+
+/* Tarjeta */
+
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+    
+}
+
+.container .box{
+    position: relative;
+    width: 320px;
+    height: 400px;
+    color: aliceblue;
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 30px;
+}
